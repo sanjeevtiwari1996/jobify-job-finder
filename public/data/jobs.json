@@ -1,0 +1,236 @@
+[
+  {
+    "id": 1,
+    "title": "React Developer",
+    "company": "TechNest",
+    "location": "Bengaluru",
+    "type": "Full-time",
+    "salary": {
+      "min": 6,
+      "max": 12
+    },
+    "experience": "0-2 years",
+    "skills": [
+      "React",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "REST"
+    ],
+    "description": "Build modern web interfaces using React, hooks, and REST APIs. Collaborate with designers and backend engineers to deliver features in sprints.",
+    "applyUrl": "https://www.linkedin.com/jobs/"
+  },
+  {
+    "id": 2,
+    "title": "Frontend Engineer (React)",
+    "company": "PixelWorks",
+    "location": "Hyderabad",
+    "type": "Internship",
+    "salary": {
+      "min": 3,
+      "max": 5
+    },
+    "experience": "Internship / Fresher",
+    "skills": [
+      "React",
+      "Tailwind",
+      "Git",
+      "Testing"
+    ],
+    "description": "Contribute to UI components, write accessible markup, and help improve performance. Exposure to Tailwind and testing libraries is a plus.",
+    "applyUrl": "https://www.naukri.com/"
+  },
+  {
+    "id": 3,
+    "title": "Junior Frontend Developer",
+    "company": "CloudBridge",
+    "location": "Pune",
+    "type": "Full-time",
+    "salary": {
+      "min": 4,
+      "max": 8
+    },
+    "experience": "0-1 years",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Redux",
+      "API"
+    ],
+    "description": "Implement features, manage state with Redux, and integrate REST APIs. Work with TypeScript in a growing product team.",
+    "applyUrl": "https://www.linkedin.com/jobs/"
+  },
+  {
+    "id": 4,
+    "title": "Web Developer (React)",
+    "company": "BrightLabs",
+    "location": "Remote",
+    "type": "Contract",
+    "salary": {
+      "min": 5,
+      "max": 9
+    },
+    "experience": "0-2 years",
+    "skills": [
+      "React",
+      "Next.js",
+      "CSS Modules"
+    ],
+    "description": "Work on landing pages and dashboards for global clients. Experience with Next.js and CSS Modules is helpful.",
+    "applyUrl": "https://angel.co/"
+  },
+  {
+    "id": 5,
+    "title": "UI Engineer",
+    "company": "FinWiz",
+    "location": "Mumbai",
+    "type": "Full-time",
+    "salary": {
+      "min": 7,
+      "max": 10
+    },
+    "experience": "1-2 years",
+    "skills": [
+      "React",
+      "Charts",
+      "Performance",
+      "Vite"
+    ],
+    "description": "Create interactive dashboards and optimize bundle performance. Work closely with product managers in fintech domain.",
+    "applyUrl": "https://www.naukri.com/"
+  },
+  {
+    "id": 6,
+    "title": "React Developer Intern",
+    "company": "EduSpark",
+    "location": "Delhi",
+    "type": "Internship",
+    "salary": {
+      "min": 2,
+      "max": 3
+    },
+    "experience": "Internship",
+    "skills": [
+      "React",
+      "Hooks",
+      "Firebase"
+    ],
+    "description": "Build features for an edtech platform using React and Firebase. Great opportunity to learn real-world development.",
+    "applyUrl": "https://internshala.com/"
+  },
+  {
+    "id": 7,
+    "title": "Associate Frontend Engineer",
+    "company": "Healthx",
+    "location": "Chennai",
+    "type": "Full-time",
+    "salary": {
+      "min": 5,
+      "max": 8
+    },
+    "experience": "0-1 years",
+    "skills": [
+      "React",
+      "Accessibility",
+      "Unit Testing"
+    ],
+    "description": "Help build accessible, tested components for a health-tech product used by thousands of patients.",
+    "applyUrl": "https://www.linkedin.com/jobs/"
+  },
+  {
+    "id": 8,
+    "title": "React + Node (Fresher)",
+    "company": "AgriStack",
+    "location": "Ahmedabad",
+    "type": "Full-time",
+    "salary": {
+      "min": 4,
+      "max": 7
+    },
+    "experience": "0-1 years",
+    "skills": [
+      "React",
+      "Node.js",
+      "APIs"
+    ],
+    "description": "Full-stack exposure building tools for agriculture logistics. Work with React on frontend and Node APIs.",
+    "applyUrl": "https://www.naukri.com/"
+  },
+  {
+    "id": 9,
+    "title": "React UI Developer",
+    "company": "ShopSmart",
+    "location": "Remote",
+    "type": "Full-time",
+    "salary": {
+      "min": 6,
+      "max": 11
+    },
+    "experience": "0-2 years",
+    "skills": [
+      "React",
+      "Tailwind",
+      "Redux",
+      "REST"
+    ],
+    "description": "Own UI components and collaborate across teams to deliver e-commerce features quickly.",
+    "applyUrl": "https://wellfound.com/"
+  },
+  {
+    "id": 10,
+    "title": "Graduate Frontend Developer",
+    "company": "DataWeave",
+    "location": "Bengaluru",
+    "type": "Full-time",
+    "salary": {
+      "min": 5,
+      "max": 9
+    },
+    "experience": "Fresher",
+    "skills": [
+      "React",
+      "D3",
+      "Charts"
+    ],
+    "description": "Build data visualizations and dashboards. Learn D3 and charting libraries alongside React.",
+    "applyUrl": "https://www.linkedin.com/jobs/"
+  },
+  {
+    "id": 11,
+    "title": "Junior React Developer",
+    "company": "InnoSoft",
+    "location": "Noida",
+    "type": "Full-time",
+    "salary": {
+      "min": 4,
+      "max": 7
+    },
+    "experience": "0-1 years",
+    "skills": [
+      "React",
+      "REST",
+      "Git"
+    ],
+    "description": "Implement UI screens from Figma designs, consume REST APIs, and participate in code reviews.",
+    "applyUrl": "https://www.naukri.com/"
+  },
+  {
+    "id": 12,
+    "title": "Frontend Intern",
+    "company": "MobilityX",
+    "location": "Pune",
+    "type": "Internship",
+    "salary": {
+      "min": 2,
+      "max": 3
+    },
+    "experience": "Intern",
+    "skills": [
+      "React",
+      "Testing",
+      "CI/CD"
+    ],
+    "description": "Assist with frontend testing, create reusable components, and learn CI/CD pipelines.",
+    "applyUrl": "https://internshala.com/"
+  }
+]
